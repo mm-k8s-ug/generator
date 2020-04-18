@@ -1,6 +1,6 @@
-# K8smm Pod for lab
+# K8smm Content Generator Pod for lab
 
-[![Docker](https://github.com/mm-k8s-ug/generator/workflows/Docker/badge.svg)](https://github.com/mm-k8s-ug/generator/actions?query=workflow%3ADocker)
+[![Go](https://github.com/mm-k8s-ug/generator/workflows/Go/badge.svg)](https://github.com/mm-k8s-ug/generator/actions?query=workflow%3AGo")
 [![Docker Repository on Quay](https://quay.io/repository/dther/hola/status "Docker Repository on Quay")](https://quay.io/repository/dther/hola:generator)
 
 ## Testing container for pod. writing with golang and lightweghit container.
