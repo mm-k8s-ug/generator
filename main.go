@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/danielkvist/talk"
+	"github.com/DTherHtun/talk"
 	"gopkg.in/liderman/text-generator.v1"
 )
 
